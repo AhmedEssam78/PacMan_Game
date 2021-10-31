@@ -1,0 +1,9 @@
+It is required to Implement a graph-based Pacman, where the player explores Pac-Man through a maze. 
+This maze is loaded up with Pac-Dots (pellets) and incorporates three wandering multi-hued ghosts: Blinky, Pinky, Inky, and Clyde.
+The goal of the game is for Pacman to collect all of the pellets (dots) in the maze. Once the player has collected all of the pellets, the player has won. 
+There are 4 ghosts that will make it difficult for the player to collect all of the pellets. 
+They will chase the player in various ways and if the player comes into contact with any of the ghosts, the player will die (lose a life). 
+When the player loses all of his lives, the game is over.
+There are 4 power pellets and if the player eats any of these power pellets, then the player can eat the ghosts. 
+When the ghosts get eaten, they will respawn in their original location.
+There are also fruits that periodically appear in the maze for Pacman. If Pacman eats them, he collects additional points [Bonus].
